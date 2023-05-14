@@ -1,1 +1,1 @@
-<h1>Entity relationship diagram</h1>
+<h1>Diagrams</h1>
